@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project focuses on predicting customer churn for a telecommunications company. Customer churn, also known as customer attrition, refers to customers who discontinue their services with a company. Understanding and predicting churn is crucial for telecom businesses as it enables them to take proactive measures to retain valuable customers.
+This project focuses on predicting customer churn for a telecommunications company. Customer churn, also known as customer attrition, refers to customers who discontinue their services with a company. Understanding and predicting churn is crucial for telecom businesses as it enables them to take proactive measures to retain valuable customers. In this particular project I tried to recommend a discount of up to 20%, depending to how likely a custommer will leave.
 
 **Project Goals**
 
@@ -26,8 +26,6 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
 
 **Methodology**
 
-
-
 1. **Exploratory Data Analysis (EDA):**
    * Visualize distributions and relationships between features.
    * Identify potential correlations with numerical features.
@@ -36,22 +34,11 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
    * Encoding categorical variables.
    * Scaling numerical features.
 3. **Model Selection and Training:**
-   * Experiment with various classification models (e.g., logistic regression, random forest, gradient boosting).
+   * Experiment with various classification models (e.g., Logistic regression, Random forest, eXtreme Gradient Boosting, Support Vector Machine, Neural network).
    * Tune hyperparameters for optimal performance.
 4. **Model Evaluation:**
    * Use metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
    * Employ cross-validation to assess model robustness.
-
-**Code and Structure**
-
-The project code is organized into the following files/directories:
-
-* `data/`: Contains the original dataset (`Telco-Customer-Churn.csv`) and any processed datasets.
-* `notebooks/`: Jupyter notebooks for data exploration, analysis, model building, and evaluation.
-* `models/`: Saved trained models (optional).
-* `src/`: Python scripts for data preprocessing and feature engineering (if applicable).
-* `README.md`: This file.
-* `requirements.txt`: List of Python libraries needed to run the code.
 
 
 **How to Run**
@@ -65,4 +52,6 @@ The project code is organized into the following files/directories:
 * This project is intended for educational and exploratory purposes.
 * The models developed here may not be directly applicable to real-world scenarios without further customization and validation.
 
-Let me know if you'd like any adjustments or more detail on specific sections! 
+**Visuals of Model at work**
+
+
