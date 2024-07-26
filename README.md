@@ -41,12 +41,6 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
    * Employ cross-validation to assess model robustness.
 
 
-**How to Run**
-
-1. Clone this repository.
-2. Install required libraries (`pip install -r requirements.txt`).
-3. Open and run the Jupyter notebooks in the `notebooks/` directory.
-
 **Additional Notes**
 
 * This project is intended for educational and exploratory purposes.
