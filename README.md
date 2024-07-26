@@ -54,4 +54,5 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
 
 **Visuals of Model at work**
 
+![Prediction 1]([https://www.example.com/cat.jpg](https://github.com/georgesylva1/Telecom_Customer_Churn_Prediction/blob/main/GUI%201.jpeg))
 
