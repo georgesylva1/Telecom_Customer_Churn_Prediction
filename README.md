@@ -56,3 +56,8 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
 
 ![Prediction 1](https://github.com/georgesylva1/Telecom_Customer_Churn_Prediction/blob/main/GUI%201.jpeg)
 
+![Prediction 2](https://github.com/georgesylva1/Telecom_Customer_Churn_Prediction/blob/main/GUI%202.jpeg)
+
+![Prediction 3](https://github.com/georgesylva1/Telecom_Customer_Churn_Prediction/blob/main/GUI%203.jpeg)
+
+
