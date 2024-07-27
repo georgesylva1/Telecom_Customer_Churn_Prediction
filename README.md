@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project focuses on predicting customer churn for a telecommunications company. Customer churn, also known as customer attrition, refers to customers who discontinue their services with a company. Understanding and predicting churn is crucial for telecom businesses as it enables them to take proactive measures to retain valuable customers. In this particular project I tried to recommend a discount of up to 20%, depending to how likely a custommer will leave.
+This project focuses on predicting customer churn for a telecommunications company. Customer churn, also known as customer attrition, refers to customers who discontinue their services with a company. Understanding and predicting churn is crucial for telecom businesses as it enables them to take proactive measures to retain valuable customers. In this particular project I tried to recommend a discount of up to 20%, depending to how likely a customer will leave.
 
 **Project Goals**
 
