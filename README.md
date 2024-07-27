@@ -7,10 +7,9 @@ This project focuses on predicting customer churn for a telecommunications compa
 **Project Goals**
 
 1. **Data Exploration and Analysis:** Thoroughly investigate the customer dataset to identify patterns, trends, and potential factors influencing churn.
-2. **Feature Engineering:** Create relevant features that capture customer behavior and demographics to enhance model performance.
-3. **Model Building:** Develop predictive models to classify customers as likely or unlikely to churn.
-4. **Model Evaluation:** Assess model performance using appropriate metrics and validation techniques.
-5. **Insights and Recommendations:** Provide actionable insights and recommendations based on model results to reduce churn rates.
+2. **Model Building:** Develop predictive models to classify customers as likely or unlikely to churn.
+3. **Model Evaluation:** Assess model performance using appropriate metrics and validation techniques.
+4. **Insights and Recommendations:** Provide actionable insights and recommendations based on model results to reduce churn rates.
 
 **Dataset**
 
