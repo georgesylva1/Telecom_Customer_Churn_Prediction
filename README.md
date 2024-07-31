@@ -43,7 +43,7 @@ The project uses the "Telco Customer Churn" dataset. This dataset includes infor
 **Additional Notes**
 
 * This project is intended for educational and exploratory purposes.
-* The models developed here may not be directly applicable to real-world scenarios without further customization and validation.
+* The models developed here may not be directly applicable to some scenarios without further customization and validation.
 
 **Visuals of Model at work**
 
